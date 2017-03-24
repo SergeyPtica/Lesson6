@@ -8,6 +8,6 @@ public class Person {
 	}
 
 	public String getName(){
-		return "Person's name is " + name; 
+		return "Person's name is " + name;
 	}
 }
